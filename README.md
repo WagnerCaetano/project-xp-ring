@@ -49,7 +49,7 @@ For Minecraft 1.21.1 with NeoForge, install Java 21 and run:
 ./gradlew build
 ```
 
-Output: `build/libs/xp_ring-neoforge-1.21.1-1.0.0.jar`
+Output: `build/libs/xp_ring-neoforge-1.21.1-1.1.0.jar`
 
 For Minecraft 1.20.1 with Forge, install Java 17 and run:
 
@@ -58,7 +58,7 @@ cd forge-1.20.1
 ./gradlew build
 ```
 
-Output: `forge-1.20.1/build/libs/xp_ring-forge-1.20.1-1.0.0.jar`
+Output: `forge-1.20.1/build/libs/xp_ring-forge-1.20.1-1.1.0.jar`
 
 ## License
 
