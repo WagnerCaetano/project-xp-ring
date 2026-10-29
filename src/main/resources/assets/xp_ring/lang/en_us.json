@@ -1,4 +1,5 @@
 {
+  "block.xp_ring.xp_ring": "XP Ring",
   "item.xp_ring.xp_ring": "XP Ring",
   "menu.xp_ring.title": "XP Ring",
   "menu.xp_ring.stored": "Stored: %s levels",
@@ -6,5 +7,6 @@
   "menu.xp_ring.extract": "Extract levels",
   "button.xp_ring.save": "Save %s",
   "button.xp_ring.extract": "Take %s",
-  "tooltip.xp_ring.stored": "Stored XP: %s levels"
+  "tooltip.xp_ring.stored": "Stored XP: %s levels",
+  "tooltip.xp_ring.place": "Sneak and use on a block to place"
 }

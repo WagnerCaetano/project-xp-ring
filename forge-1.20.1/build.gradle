@@ -167,6 +167,8 @@ tasks.named('processResources', ProcessResources).configure {
 
 // Example for how to get properties into the manifest for reading at runtime.
 tasks.named('jar', Jar).configure {
+    from(project.file('../LICENSE'))
+
     manifest {
         attributes([
                 'Specification-Title'     : mod_id,

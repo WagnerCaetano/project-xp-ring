@@ -10,11 +10,12 @@ Available for:
 ## Features
 
 - Right-click the ring to open a simple XP storage screen.
-- Save 1, 5, or 10 levels at a time.
-- Extract 1, 5, or 10 stored levels.
+- Save or extract 1, 5, or 10 levels at a time.
 - See how many levels are currently stored.
-- XP is stored separately inside each ring.
+- XP is stored separately inside each ring and kept across mod updates.
 - The ring glows while it contains XP.
+- Sneak and use the ring on a block to place a floating copy.
+- Right-click a placed ring to manage its XP. Breaking it returns the same stored amount.
 - Works in single-player and multiplayer.
 
 ## Recipe
@@ -35,7 +36,7 @@ GEG
 
 1. Install one of the supported Minecraft versions.
 2. Install the matching Forge or NeoForge loader.
-3. Place the XP Ring JAR in the Minecraft `mods` folder.
+3. Place the matching XP Ring JAR in the Minecraft `mods` folder.
 4. Start Minecraft with the matching mod-loader profile.
 
 The mod must also be installed on the server when playing multiplayer.
@@ -59,15 +60,8 @@ cd forge-1.20.1
 
 Output: `forge-1.20.1/build/libs/xp_ring-forge-1.20.1-1.0.0.jar`
 
-## CurseForge
-
-When publishing, use this short summary:
-
-> A simple XP ring to save, store, and retrieve your experience levels.
-
-Upload each JAR as a separate CurseForge file and select its matching Minecraft
-version and mod loader.
-
 ## License
 
-All Rights Reserved.
+XP Ring is available under the [MIT License](LICENSE). You may use, modify,
+redistribute, sublicense, and sell copies of the project while retaining the
+copyright and license notice.
